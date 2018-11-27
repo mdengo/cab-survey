@@ -1,8 +1,10 @@
 # cab-survey
-Repo for a data science project using kaggle's [Clinical, Anthropometric &amp; Bio-Chemical Survey](https://www.kaggle.com/rajanand/cab-survey) dataset.
+Repo for a data science project using Kaggle's [Clinical, Anthropometric &amp; Bio-Chemical Survey](https://www.kaggle.com/rajanand/cab-survey) dataset.
 
-Direct link to the project slide:  
-https://docs.google.com/presentation/d/1RHDUPsJVVtwVfPp8-WxsK8udEpYOmf4Ki9NjtbgpLDU/edit#slide=id.g48274606ac_127_5
+## Links:
 
-Direct link to public Kaggle kernel
-https://www.kaggle.com/sophiegrae/project-kaggle-clinical-survey
+* [Project slide](https://docs.google.com/presentation/d/1RHDUPsJVVtwVfPp8-WxsK8udEpYOmf4Ki9NjtbgpLDU/edit#slide=id.g48274606ac_127_5)
+* [Public Kaggle kernel](https://www.kaggle.com/sophiegrae/project-kaggle-clinical-survey)
+* [Business Understanding](https://github.com/mdengo/cab-survey/wiki/Business-Understanding)
+* [Data Understanding](https://github.com/mdengo/cab-survey/wiki/Data-Understanding)
+* [Project Plan](https://github.com/mdengo/cab-survey/wiki/Project-Plan)
