@@ -8,3 +8,5 @@ Repo for a data science project using Kaggle's [Clinical, Anthropometric &amp; B
 * [Business Understanding](https://github.com/mdengo/cab-survey/wiki/Business-Understanding)
 * [Data Understanding](https://github.com/mdengo/cab-survey/wiki/Data-Understanding)
 * [Project Plan](https://github.com/mdengo/cab-survey/wiki/Project-Plan)
+* [Project Summary Kaggle Kernel](https://www.kaggle.com/sophiegrae/summary-of-project-kaggle-clinical/notebook?scriptVersionId=8498919)
+
